@@ -1,4 +1,16 @@
-🫡
+## 🫡
+
+Employers sometimes modify their repos, so here are screenshotted contibutions graphs preverved.
+<details>
+  <summary>2024</summary>
+
+  ```
+  This one actually lacks about 500 contributions.
+  ```
+  <img src="https://github.com/user-attachments/assets/48bef429-a61d-44e2-90cd-9c5129346143"/>
+</image>
+
+</details>
 
 <!--
 **lightest/lightest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
