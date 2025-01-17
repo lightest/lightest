@@ -1,6 +1,6 @@
 ## 🫡
 
-Employers sometimes modify their repos, so here are screenshotted contibutions graphs preverved.
+Employers sometimes modify their repos, so here are screenshotted contibutions graphs.
 <details>
   <summary>2024</summary>
 
